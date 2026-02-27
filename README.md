@@ -53,3 +53,7 @@ Time:2:33 pm
 Developed Nearby Donor Search feature successfully
 
 Now we going to add donor image for security purpose and easy to identify the person 
+
+Time:3:04 pm
+
+Added donor image for security purpose and easy to identify the person successfully
