@@ -68,4 +68,7 @@ we successfully  implemented a direct calling feature that allows users to quick
 Time:6:41 pm
 Untill now we upgraded donor profile in the form of implementing donor eligibility to donate blood and completed 50% of ai chatbot
 
+Time:8:30 pm
+SUccessfully we created ai chatbot for first aid medical bot
+
 
