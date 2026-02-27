@@ -37,3 +37,14 @@ Donor matching
 Notifications
 
 User login system
+
+time:1:55pm
+
+Recent Updates (After Last Report)
+
+Implemented Donor Login system
+
+Implemented Patient Registration system
+
+Developed Nearby Donor Search feature
+(Finds donors within a 10 km radius using location coordinates)
