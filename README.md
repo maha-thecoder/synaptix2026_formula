@@ -42,9 +42,14 @@ time:1:55pm
 
 Recent Updates (After Last Report)
 
-Implemented Donor Login system
+Implemented Donor Login system11
 
-Implemented Patient Registration system
-
+Implemented Patient Registration system 
 Developed Nearby Donor Search feature
 (Finds donors within a 10 km radius using location coordinates)
+
+Time:2:33 pm
+
+Developed Nearby Donor Search feature successfully
+
+Now we going to add donor image for security purpose and easy to identify the person 
