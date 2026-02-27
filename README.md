@@ -65,3 +65,7 @@ Additionally, we implementing a direct calling feature that allows users to quic
 Time:4:22 pm 
 we successfully  implemented a direct calling feature that allows users to quickly contact donors during emergencies. To further enhance accessibility, we integrated WhatsApp-based communication, enabling users to instantly share the patient’s live location and request details, ensuring faster response and coordination.
 
+Time:6:41 pm
+Untill now we upgraded donor profile in the form of implementing dodnor eligibility to donate blood and completed 50% of ai chatbot
+
+
