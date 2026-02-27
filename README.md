@@ -60,4 +60,8 @@ Added donor image for security purpose and easy to identify the person successfu
 
 Time:4:07 pm
 We developed a clean and user-friendly interface to ensure a smooth and intuitive user experience. The platform is integrated with the eRaktKosh system to enable efficient searching of nearby blood banks.
-Additionally, we implemented a direct calling feature that allows users to quickly contact donors during emergencies. To further enhance accessibility, we integrated WhatsApp-based communication, enabling users to instantly share the patient’s live location and request details, ensuring faster response and coordination.
+Additionally, we implementing a direct calling feature that allows users to quickly contact donors during emergencies. To further enhance accessibility, we integrating WhatsApp-based communication, enabling users to instantly share the patient’s live location and request details, ensuring faster response and coordination.
+
+Time:4:22 pm 
+we successfully  implemented a direct calling feature that allows users to quickly contact donors during emergencies. To further enhance accessibility, we integrated WhatsApp-based communication, enabling users to instantly share the patient’s live location and request details, ensuring faster response and coordination.
+
