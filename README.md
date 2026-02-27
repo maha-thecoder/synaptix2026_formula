@@ -57,3 +57,7 @@ Now we going to add donor image for security purpose and easy to identify the pe
 Time:3:04 pm
 
 Added donor image for security purpose and easy to identify the person successfully
+
+Time:4:07 pm
+We developed a clean and user-friendly interface to ensure a smooth and intuitive user experience. The platform is integrated with the eRaktKosh system to enable efficient searching of nearby blood banks.
+Additionally, we implemented a direct calling feature that allows users to quickly contact donors during emergencies. To further enhance accessibility, we integrated WhatsApp-based communication, enabling users to instantly share the patient’s live location and request details, ensuring faster response and coordination.
